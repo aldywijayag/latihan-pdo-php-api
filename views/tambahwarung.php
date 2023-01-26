@@ -57,7 +57,7 @@
                         </div>
                     </div>
                     <div class="form-group row p-1">
-                        <label for="alamat" class="col-sm-2 col-form-label"></label>
+                        <label for="alamat" class="col-sm-4 col-form-label"></label>
                         <div class="col-sm-8">
                             <input type="submit" name="tambah" class="btn btn-primary" value="Update">
                         </div>
